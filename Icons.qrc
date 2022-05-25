@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/new">
+        <file>Img/auto-repair.png</file>
+        <file>Img/calendar.png</file>
+        <file>Img/colors.png</file>
+    </qresource>
+</RCC>
